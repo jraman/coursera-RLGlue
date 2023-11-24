@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from rlglue.agent import BaseAgent
+from RLGlue import BaseAgent
 
 import numpy as np
 

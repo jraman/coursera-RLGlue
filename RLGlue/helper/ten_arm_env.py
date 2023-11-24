@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from rlglue.environment import BaseEnvironment
+from RLGlue import BaseEnvironment
 
 import numpy as np
 
